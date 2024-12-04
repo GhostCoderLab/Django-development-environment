@@ -8,6 +8,8 @@ A development environment for Django projects. This project includes basic Djang
 
 ```plaintext
 Django Development Environment
+├── .devcontainer
+│   └── devcontainer.json
 ├── README.md
 ├── api
 │   ├── __init__.py
